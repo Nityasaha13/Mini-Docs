@@ -1,8 +1,5 @@
-# React + Vite
+# Mini-Docs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This will help users to create notes, tasks, and etc. And user can also be able to add remainders for tasks.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
